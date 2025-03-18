@@ -1,4 +1,6 @@
 本程序仅用于网站上下传测试，请勿用于非法用途
+建议使用docker版本：https://github.com/ODJ0930/jianhuang-docker
+docker一键部署：docker run -d -p 9111:3000 diead/jh:v0
 
 使用方法很简单，先安装nodejs
 
