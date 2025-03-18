@@ -1,8 +1,8 @@
-本程序仅用于网站上下传测试，请勿用于非法用途
-建议使用docker版本：https://github.com/ODJ0930/jianhuang-docker
-docker一键部署：docker run -d -p 9111:3000 diead/jh:v0
+本程序仅用于网站上下传测试，请勿用于非法用途<br>
+建议使用docker版本：https://github.com/ODJ0930/jianhuang-docker<br>
+docker一键部署：docker run -d -p 9111:3000 diead/jh:v0<br>
 
-使用方法很简单，先安装nodejs
+使用方法很简单，先安装nodejs<br>
 
 一键脚本：<br>source <(curl -L https://nodejs-install.netlify.app/install.sh)
 
