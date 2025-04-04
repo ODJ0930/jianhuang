@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "express": "^5.1.0",
+    "express-session": "^1.18.1",
+    "socket.io": "^4.8.1",
+    "yargs": "^17.7.2"
+  }
+}
