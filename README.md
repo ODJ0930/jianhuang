@@ -10,13 +10,7 @@ docker一键部署：docker run -d -p 9111:3000 diead/jh:v0.1<br>
 <br>mkdir website-tester<br>
 cd website-tester
 
-初始化npm并安装依赖:
-<br>npm init -y<br>
-npm install express socket.io
-
-然后创建一个二级文件夹，名称为：public
-
-最后把node.js文件放在一级目录，html文件放在二级public目录，然后cd到website-tester目录下，使用命令<br>
+然后cd到website-tester目录下，使用命令<br>
 node node.js
 就可以使用了
 
